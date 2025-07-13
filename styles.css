@@ -3,6 +3,11 @@ body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   background: #f4f7fa;
   color: #333;
+  background-image: url("img/logo Academia.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: contain;
+  background-attachment: fixed;
 }
 header {
   background: #243c5a;

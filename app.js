@@ -12,13 +12,13 @@ function cargarCarrito() {
   carrito.forEach(id => {
     let nombre, precio;
     if (id === "prim") {
-      nombre = "Curso de matematica para primaria";
+      nombre = "Curso de matemática para primaria";
       precio = 70;
     } else if (id === "sec") {
-      nombre = "Curso de matematica para secundaria";
+      nombre = "Curso de matemática para secundaria";
       precio = 80;
     } else if (id === "preu") {
-      nombre = "Curso de matematica Pre Universitario.";
+      nombre = "Curso de matemática Pre Universitario.";
       precio = 100;
     } else {
       nombre = "Curso desconocido";
